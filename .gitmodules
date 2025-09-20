@@ -1,0 +1,3 @@
+[submodule "contrib/treesitter-mode"]
+	path = contrib/treesitter-mode
+	url = https://github.com/somnorison/lem-treesitter-mode
